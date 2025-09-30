@@ -218,7 +218,7 @@ arm::display(mixed_treatment.spp1)
 arm::display(mixed_treatment.spp2)
 ```
 
-The model summaries show identical intercepts and slopes!
+The model summaries show identical slopes.
 
 Next I used the **parameters* package to compare coefficients.
 
